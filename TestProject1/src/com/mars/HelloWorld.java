@@ -11,6 +11,10 @@ public class HelloWorld {
 		System.out.println("new file");
 	}
 	
+	public void test2() {
+		System.out.println("feature branch change ");
+	}
+	
 	public static void main(String[] args) {
 		new HelloWorld();
 	}
