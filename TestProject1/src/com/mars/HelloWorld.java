@@ -18,6 +18,7 @@ public class HelloWorld {
 	
 	public void test3(){
 		System.out.println("inside test 3");
+		System.out.println("hot fix1");
 	}
 	
 	public static void main(String[] args) {
