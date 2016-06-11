@@ -6,4 +6,8 @@ public class Manager {
 	String id;
 	Integer age;
 	
+	public void test2(){
+		
+	}
+	
 }
