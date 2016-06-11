@@ -13,6 +13,7 @@ public class HelloWorld {
 	
 	public void test2() {
 		System.out.println("feature branch change ");
+		System.out.println("another change in feature");
 	}
 	
 	public static void main(String[] args) {
