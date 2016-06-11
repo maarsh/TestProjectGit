@@ -4,5 +4,6 @@ public class Manager {
 	
 	String name;
 	String id;
+	Integer age;
 	
 }
