@@ -16,6 +16,10 @@ public class HelloWorld {
 		System.out.println("another change in feature");
 	}
 	
+	public void test3(){
+		System.out.println("inside test 3");
+	}
+	
 	public static void main(String[] args) {
 		new HelloWorld();
 	}
